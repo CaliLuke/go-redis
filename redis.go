@@ -521,9 +521,10 @@ func (c *baseClient) clone() *baseClient {
 	c.maintNotificationsManagerLock.RUnlock()
 
 	clone := &baseClient{
-		apClosed: c.apClosed,
-		opt:      c.opt,
-		connPool: c.connPool,
+		hooksMixin: c.hooksMixin.clone(),
+		apClosed:   c.apClosed,
+		opt:        c.opt,
+		connPool:   c.connPool,
 		// Pointer copy on purpose: the clone shares the parent's already-created
 		// pipeline pool over the one shared pool set, rather than building its own.
 		pipelinePool:                c.pipelinePool,
