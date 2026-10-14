@@ -3,7 +3,7 @@ package streaming
 import (
 	"sync"
 
-	"github.com/redis/go-redis/v9/auth"
+	"github.com/CaliLuke/go-redis/v9/auth"
 )
 
 // CredentialsListeners is a thread-safe collection of credentials listeners

@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // bufferedReader returns a Reader whose buffer holds exactly data, with the

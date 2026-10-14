@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 type raceRecorder struct{ noopRecorder }

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/util"
+	"github.com/CaliLuke/go-redis/v9/internal/util"
 )
 
 // String representations of special float values.

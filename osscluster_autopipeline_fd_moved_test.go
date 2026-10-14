@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // clusterFDAddrs is the local 6-node cluster (3 masters + 3 replicas) the FD

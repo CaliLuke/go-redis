@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // collectTestAddr is the standalone Redis used by the COLLECT integration

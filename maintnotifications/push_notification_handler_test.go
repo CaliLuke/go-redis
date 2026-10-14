@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/interfaces"
-	"github.com/redis/go-redis/v9/push"
+	"github.com/CaliLuke/go-redis/v9/internal/interfaces"
+	"github.com/CaliLuke/go-redis/v9/push"
 )
 
 // testOptions implements interfaces.OptionsInterface for testing SMIGRATED

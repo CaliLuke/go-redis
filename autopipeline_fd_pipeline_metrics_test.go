@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
 )
 
 // processPipelineRetriesAfter continues an operation that already ran, so its

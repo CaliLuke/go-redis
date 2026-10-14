@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 type SearchCmdable interface {

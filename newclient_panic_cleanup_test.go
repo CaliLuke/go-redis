@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/maintnotifications"
-	"github.com/redis/go-redis/v9/push"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/push"
 )
 
 // fakeConn is a no-I/O net.Conn: the min-idle connection is created in the pool

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
 )
 
 // XTrimLimitDisabled is a sentinel value for the LIMIT argument of stream

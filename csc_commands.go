@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // defaultCacheableCommands is the allow-list of read-only, deterministic

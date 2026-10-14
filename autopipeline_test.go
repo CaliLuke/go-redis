@@ -20,9 +20,9 @@ import (
 
 	. "github.com/bsm/ginkgo/v2"
 	. "github.com/bsm/gomega"
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/internal/hashtag"
-	"github.com/redis/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
 )
 
 // apTestAddr is the redis address for the plain go tests in this file:

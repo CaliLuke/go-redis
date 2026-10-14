@@ -5,8 +5,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // Batch submission on the full-duplex wire.

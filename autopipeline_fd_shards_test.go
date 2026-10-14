@@ -17,7 +17,7 @@ import (
 	"sync"
 	"testing"
 
-	redis "github.com/redis/go-redis/v9"
+	redis "github.com/CaliLuke/go-redis/v9"
 )
 
 func TestFDShardsReplyCorrelation(t *testing.T) {

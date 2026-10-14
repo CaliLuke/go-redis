@@ -8,7 +8,7 @@ import (
 
 	"sync/atomic"
 
-	"github.com/redis/go-redis/v9/internal/util"
+	"github.com/CaliLuke/go-redis/v9/internal/util"
 	uberAtomic "go.uber.org/atomic"
 )
 

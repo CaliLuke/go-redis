@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/logging"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/logging"
 )
 
 type raceTestLogger struct{}

@@ -1,4 +1,4 @@
-module github.com/redis/go-redis/v9
+module github.com/CaliLuke/go-redis/v9
 
 go 1.26.0
 

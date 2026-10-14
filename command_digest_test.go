@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 func TestDigestCmd(t *testing.T) {

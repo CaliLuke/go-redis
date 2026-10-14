@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
 )
 
 // Pipeline hooks and pipeline metrics on the full-duplex path. A pipeline
