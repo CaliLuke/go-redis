@@ -11,8 +11,8 @@ import (
 	"time"
 	"weak"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // Connection close reason constants for metrics.

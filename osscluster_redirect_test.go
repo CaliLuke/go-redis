@@ -11,10 +11,10 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // With cluster-preferred-endpoint-type unknown-endpoint, MOVED and ASK carry

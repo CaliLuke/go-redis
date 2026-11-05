@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // TestClassifyCommandErrorNilReply pins that a Nil reply (GET on a missing key)

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // TestSearchCommandsRESP2AndRESP3Equivalence tests that search commands

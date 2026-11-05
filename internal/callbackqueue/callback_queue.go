@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/redis/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal"
 )
 
 // CallbackQueue runs queued callbacks on a single goroutine, in FIFO order.

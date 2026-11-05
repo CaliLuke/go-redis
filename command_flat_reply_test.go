@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // A RESP2 flat reply (a single array of alternating member/score or key/value

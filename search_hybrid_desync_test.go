@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // FT.HYBRID replies with a RESP3 map on a RESP3 connection, like the other

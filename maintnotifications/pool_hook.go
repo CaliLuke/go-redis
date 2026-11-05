@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/maintnotifications/logs"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/maintnotifications/logs"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // OperationsManagerInterface defines the interface for completing handoff operations

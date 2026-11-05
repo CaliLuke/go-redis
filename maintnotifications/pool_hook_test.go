@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // mockNetConn implements net.Conn for testing

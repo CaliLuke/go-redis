@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 var errCMSInvalidCellSize = errors.New("redis: invalid cell size (must be 1, 2, 4 or 8)")

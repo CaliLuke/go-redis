@@ -13,9 +13,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // fdStateServer is a minimal stateful RESP2 server for the FD pipeline tests.

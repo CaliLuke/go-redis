@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	cbq "github.com/redis/go-redis/v9/internal/callbackqueue"
+	cbq "github.com/CaliLuke/go-redis/v9/internal/callbackqueue"
 )
 
 // State represents the state of a circuit breaker.

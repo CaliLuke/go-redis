@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // txServer is a minimal RESP2 server with Redis' MULTI semantics: WATCH and

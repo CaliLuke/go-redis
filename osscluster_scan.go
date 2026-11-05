@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/redis/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
 )
 
 // SCAN has request_policy:special and response_policy:special: a cursor belongs

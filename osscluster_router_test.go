@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
 )
 
 // clusterState is published as an immutable snapshot shared by every concurrent

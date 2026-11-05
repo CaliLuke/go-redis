@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // skipIfRECluster skips tests that depend on the TLS-enabled local Redis from

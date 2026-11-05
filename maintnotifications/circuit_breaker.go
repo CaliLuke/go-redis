@@ -7,9 +7,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/circuitbreaker"
-	"github.com/redis/go-redis/v9/internal/maintnotifications/logs"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/circuitbreaker"
+	"github.com/CaliLuke/go-redis/v9/internal/maintnotifications/logs"
 )
 
 // CircuitBreakerState represents the state of a circuit breaker

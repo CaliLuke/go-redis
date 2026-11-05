@@ -17,9 +17,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/hashtag"
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // countingDetector counts outcomes and can run a hook inside RecordFailure.

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/util"
+	"github.com/CaliLuke/go-redis/v9/internal/util"
 )
 
 func AppendArg(b []byte, v interface{}) []byte {

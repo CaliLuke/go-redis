@@ -16,8 +16,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
 )
 
 // reDatabaseEndpoint mirrors a raw_endpoints entry from the env0 endpoints config.

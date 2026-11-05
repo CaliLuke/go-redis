@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // ReAuthPoolHook is a pool hook that manages background re-authentication of connections

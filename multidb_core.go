@@ -11,15 +11,15 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	cbq "github.com/redis/go-redis/v9/internal/callbackqueue"
-	"github.com/redis/go-redis/v9/internal/failuredetector"
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/maintnotifications"
-	"github.com/redis/go-redis/v9/push"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	cbq "github.com/CaliLuke/go-redis/v9/internal/callbackqueue"
+	"github.com/CaliLuke/go-redis/v9/internal/failuredetector"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/push"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
 )
 
 // multidbDatabase is one member database: its client, circuit breaker,

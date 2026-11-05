@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	logs2 "github.com/redis/go-redis/v9/internal/maintnotifications/logs"
-	"github.com/redis/go-redis/v9/logging"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	logs2 "github.com/CaliLuke/go-redis/v9/internal/maintnotifications/logs"
+	"github.com/CaliLuke/go-redis/v9/logging"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // TestTimeoutConfigurationsPushNotifications tests push notifications with different timeout configurations

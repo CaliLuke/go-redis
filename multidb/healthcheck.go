@@ -8,8 +8,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
+	"github.com/CaliLuke/go-redis/v9"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
 )
 
 // Default values for health check configuration

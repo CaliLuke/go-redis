@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/maintnotifications/logs"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/maintnotifications/logs"
 )
 
 // Mode represents the maintenance notifications mode

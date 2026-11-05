@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // TestClusterMaintNotifications_CallbackSetup tests that the cluster state reload callback is properly set up

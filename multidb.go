@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/failuredetector"
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/internal/failuredetector"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // InitialDBState controls how many databases must be healthy for

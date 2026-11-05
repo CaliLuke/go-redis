@@ -15,9 +15,9 @@ import (
 
 	"golang.org/x/sys/cpu"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // AutoPipelineOptions configures the autopipelining behavior.

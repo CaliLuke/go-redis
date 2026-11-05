@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // retireOnPutHook retires the connection from inside OnPut, which runs after

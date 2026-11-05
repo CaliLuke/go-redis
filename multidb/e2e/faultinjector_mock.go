@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	fi "github.com/redis/go-redis/v9/maintnotifications/e2e"
+	fi "github.com/CaliLuke/go-redis/v9/maintnotifications/e2e"
 )
 
 // NetworkFaultMechanism severs and restores a proxy container's

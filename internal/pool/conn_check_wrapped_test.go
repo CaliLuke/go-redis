@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // opaqueConn deliberately exposes only net.Conn, modelling wrappers that do

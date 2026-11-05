@@ -3,7 +3,7 @@ package proto
 import (
 	"bytes"
 
-	"github.com/redis/go-redis/v9/internal/util"
+	"github.com/CaliLuke/go-redis/v9/internal/util"
 )
 
 // maxBufferedFrameDepth bounds the nesting HasBufferedReply follows. A deeper

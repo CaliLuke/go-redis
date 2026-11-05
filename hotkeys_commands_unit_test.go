@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // HOTKEYS GET answers with an array holding a single map. The CPU totals are

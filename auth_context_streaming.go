@@ -3,7 +3,7 @@ package redis
 import (
 	"context"
 
-	"github.com/redis/go-redis/v9/auth"
+	"github.com/CaliLuke/go-redis/v9/auth"
 )
 
 func subscribeStreamingCredentials(

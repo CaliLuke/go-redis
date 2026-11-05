@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // TestCSCMissCoalescerWireBudget pins the in-flight wire-byte budget that bounds a

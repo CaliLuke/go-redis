@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // TestParseFTInfo tests the parseFTInfo function with a comprehensive FT.INFO response

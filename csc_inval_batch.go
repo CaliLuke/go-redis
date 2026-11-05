@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal"
 )
 
 // Windowed background invalidation batcher.

@@ -16,12 +16,12 @@ import (
 	"testing"
 	"time"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/internal/routing"
-	"github.com/redis/go-redis/v9/push"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9/push"
 )
 
 // This file consolidates the MultiDB internal (package redis) tests: core

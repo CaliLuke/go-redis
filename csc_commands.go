@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // CSC eligibility: a command may be cached only when its COMMAND metadata

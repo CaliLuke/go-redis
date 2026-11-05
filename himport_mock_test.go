@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // himportMockServer is a minimal RESP2 server implementing the HIMPORT

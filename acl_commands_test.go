@@ -3,7 +3,7 @@ package redis_test
 import (
 	"context"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 
 	. "github.com/bsm/ginkgo/v2"
 	. "github.com/bsm/gomega"

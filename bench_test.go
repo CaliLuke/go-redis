@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // BenchmarkClusterRoutingServer includes real server I/O, unlike the isolated

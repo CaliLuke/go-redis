@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // apWorkload is one traffic shape driven through a MultiDB client during a

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // TestTypedErrorsWithHookWrapping demonstrates that typed errors work correctly

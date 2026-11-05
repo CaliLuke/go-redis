@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // A pipelined or autopipelined command is built when it is queued and its

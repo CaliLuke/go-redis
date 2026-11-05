@@ -17,7 +17,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal"
 )
 
 // Per-client command-metadata resolution. A client resolves COMMAND metadata

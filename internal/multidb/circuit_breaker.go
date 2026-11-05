@@ -4,7 +4,7 @@ package multidb
 import (
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/circuitbreaker"
+	"github.com/CaliLuke/go-redis/v9/internal/circuitbreaker"
 )
 
 // CircuitState represents the state of a circuit breaker.

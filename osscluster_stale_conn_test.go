@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // TestClusterMovedToSameAddrRecyclesConn tests a case when a connection within the same hostname was replaced

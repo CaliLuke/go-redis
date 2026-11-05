@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/redis/go-redis/v9/auth"
+	"github.com/CaliLuke/go-redis/v9/auth"
 )
 
 // rotatingCredentialsProvider is a StreamingCredentialsProvider whose rotate

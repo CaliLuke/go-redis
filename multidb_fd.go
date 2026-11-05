@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
 )
 
 // multidbFDRouter runs the ordered full-duplex autopipeline on a

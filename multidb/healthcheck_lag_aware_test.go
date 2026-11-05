@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // delayedHTTPClient answers every REST request after a fixed delay. The bdbs

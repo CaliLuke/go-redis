@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal"
 )
 
 // Default probe settings, shared by the root default policy and the multidb

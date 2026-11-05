@@ -6,7 +6,7 @@ import (
 	"math"
 	"reflect"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
 )
 
 // This file makes MultiDBClient a full UniversalClient and wires pipelines

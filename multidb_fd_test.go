@@ -16,8 +16,8 @@ import (
 	"testing"
 	"time"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
-	"github.com/redis/go-redis/v9/internal/proto"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // fdTestProxy forwards TCP to target until killed: a member that can die.

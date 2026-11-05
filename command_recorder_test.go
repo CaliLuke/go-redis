@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // commandRecorder records the last N commands executed by a Redis client.

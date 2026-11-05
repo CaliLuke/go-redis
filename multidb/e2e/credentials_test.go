@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/auth"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/auth"
 )
 
 // fakeTokenProvider stands in for go-redis-entraid: one provider shared by

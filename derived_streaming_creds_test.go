@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/auth"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/auth"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 type stubStreamingProvider struct {

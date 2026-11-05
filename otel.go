@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/otel"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/otel"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 // ErrorTypeNil is the error type reported to OTelRecorder.RecordError for a Nil reply.

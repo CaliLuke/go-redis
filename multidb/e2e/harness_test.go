@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	fi "github.com/redis/go-redis/v9/maintnotifications/e2e"
-	"github.com/redis/go-redis/v9/multidb"
+	"github.com/CaliLuke/go-redis/v9"
+	fi "github.com/CaliLuke/go-redis/v9/maintnotifications/e2e"
+	"github.com/CaliLuke/go-redis/v9/multidb"
 )
 
 // proxyFarm drives the per-member proxy containers (MockMembers, shared

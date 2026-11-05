@@ -15,8 +15,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // debugE2E returns true if E2E_DEBUG environment variable is set to "true"

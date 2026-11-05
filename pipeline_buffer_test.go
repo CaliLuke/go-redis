@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // skipWithoutRedis skips the test when no server answers at apTestAddr(), so a

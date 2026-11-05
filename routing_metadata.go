@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
 )
 
 // commandArgsRepeatable accepts the types proto.Writer encodes directly.

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	imultidb "github.com/redis/go-redis/v9/internal/multidb"
+	imultidb "github.com/CaliLuke/go-redis/v9/internal/multidb"
 )
 
 // MultiDBHealthCheck is the interface for health checking databases.

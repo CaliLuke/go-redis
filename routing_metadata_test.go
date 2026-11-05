@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/hashtag"
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
 )
 
 func TestRoutingMetadataCanonicalNumKeys(t *testing.T) {

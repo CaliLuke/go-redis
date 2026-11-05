@@ -8,8 +8,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // epoch and empty are test-only registry accessors; the linter runs with

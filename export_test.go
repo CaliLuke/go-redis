@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal"
-	"github.com/redis/go-redis/v9/internal/hashtag"
-	"github.com/redis/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
 )
 
 func NewTestRedisAddr(t *testing.T) string {

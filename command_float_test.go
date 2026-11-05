@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // RESP3 sends a double reply, for example from ZSCORE, as a float64 value.

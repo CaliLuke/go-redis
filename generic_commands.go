@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/hashtag"
+	"github.com/CaliLuke/go-redis/v9/internal/hashtag"
 )
 
 type GenericCmdable interface {

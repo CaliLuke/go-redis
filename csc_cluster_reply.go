@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // A missing key can be created on an importing node without invalidating the

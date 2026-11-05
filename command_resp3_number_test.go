@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/redis/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
 )
 
 // RESP3 sends a double as float64 and a big number as *big.Int. The Cmd

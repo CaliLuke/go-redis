@@ -17,10 +17,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9/internal/pool"
-	"github.com/redis/go-redis/v9/internal/proto"
-	"github.com/redis/go-redis/v9/internal/routing"
-	"github.com/redis/go-redis/v9/maintnotifications"
+	"github.com/CaliLuke/go-redis/v9/internal/pool"
+	"github.com/CaliLuke/go-redis/v9/internal/proto"
+	"github.com/CaliLuke/go-redis/v9/internal/routing"
+	"github.com/CaliLuke/go-redis/v9/maintnotifications"
 )
 
 // internalTestRedisAddr mirrors main_test.go's redisAddr for the internal

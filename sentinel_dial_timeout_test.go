@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/redis/go-redis/v9"
+	"github.com/CaliLuke/go-redis/v9"
 )
 
 // TestFailoverClientSubscribeBoundedByDialTimeout checks that the master dial
